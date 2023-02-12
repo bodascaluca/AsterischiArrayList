@@ -1,0 +1,12 @@
+/*
+        final int DIVISORE=100;
+        for (int indice=0; indice<incasso.length; indice++){
+            int numAsterischi = (int) incasso[indice]/DIVISORE;
+            System.out.print("Negozio  "+ (indice+1)+ ": ");
+
+            for(int i=0; i<=numAsterischi;i++){
+                System.out.print("*");
+            };
+            System.out.println();
+        }
+*/
